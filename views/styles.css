@@ -1,0 +1,40 @@
+body {
+  background-color: #2C3333;
+  padding-top: 100px
+}
+
+h1 {
+  color: #A5C9CA;
+  font-size: 30px
+}
+
+label {
+  color: #E7F6F2;
+  font-size: 25px
+}
+
+input {
+  background-color: #A5C9CA;
+  width: 200px;
+  height: 20px;
+  border-radius: 50px;
+}
+
+button[type="submit"] {
+  width: 100px;
+  height: 20px;
+  background-color: #A5C9CA;
+  border-radius: 25px;
+}
+
+.shape {
+  border-radius: 25px;
+  text-align: center;
+  background-color: #395B64;
+  width: 400px;
+  height: 60px;
+  line-height: 60px;
+  color: white;
+  margin: 20px auto;
+  position: relative;
+}
